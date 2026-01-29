@@ -15,10 +15,18 @@ Returns the number of digits in an integer (works for negative numbers too).
 ### tip_amount(total, percent)
 Calculates the tip amount based on a total bill and tip percentage, rounded to the nearest whole number.
 
-## Requirements to Run
+## How to Run
 
+First, make sure you have:
 1. Python 3.x
 1. The built-in math module
+
+Then, save the file as something like:
+```
+math_lab.py
+```
+
+Once you do that, run the program on python.
 
 ## Examples
 **Input:** hypotenuse(3, 4)
